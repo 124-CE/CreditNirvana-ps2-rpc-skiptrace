@@ -291,7 +291,7 @@ The call logs and account data belong to the competition organisers (**CreditNir
 | | |
 |---|---|
 | **Krishna Keshav** | [GitHub](https://github.com/124-CE) · [LinkedIn](https://www.linkedin.com/in/krishna-keshav-53b654372/) |
-| **Neal Kauntia** | <!-- add GitHub / LinkedIn link --> |
+| **Neal Kauntia** | [GitHub](https://github.com/neal-kauntia) · [LinkedIn](https://www.linkedin.com/in/neal-kauntia-a3b750375)|
 
 <div align="center">
 
