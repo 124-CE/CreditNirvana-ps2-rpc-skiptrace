@@ -161,7 +161,7 @@ All numbers come from the **held-out test split**, which was touched once.
 
 ### 1. RPC prediction
 
-<p align="center"><img src="assets/auc_comparison.png" width="720" alt="AUC comparison"></p>
+<p align="center"><img src="auc_comparison.png" width="720" alt="AUC comparison"></p>
 
 | Model | Test AUC |
 |---|---|
@@ -179,7 +179,7 @@ Test PR-AUC is 0.291 and the Brier score is 0.135. Calibration is close to obser
 
 We compared HMM states with **250 independently verified phones** that the model was **never fitted to**.
 
-<p align="center"><img src="assets/hmm_confusion_matrix.png" width="440" alt="HMM confusion matrix"></p>
+<p align="center"><img src="hmm_confusion_matrix.png" width="440" alt="HMM confusion matrix"></p>
 
 | Verified state | Correct | Recall |
 |---|---|---|
@@ -195,7 +195,7 @@ Recycled numbers are the hardest class, since they look like valid phones until 
 
 On the **243 held-out traces**:
 
-<p align="center"><img src="assets/trace_policy.png" width="720" alt="Trace policy comparison"></p>
+<p align="center"><img src="trace_policy.png" width="720" alt="Trace policy comparison"></p>
 
 | Policy | Traces | Spend | Hits | Hit rate |
 |---|---|---|---|---|
@@ -206,7 +206,7 @@ The trace-hit logistic model reaches **AUC 0.796** on held-out traces. Its signs
 
 ### 4. Final queue for all 2,400 accounts
 
-<p align="center"><img src="assets/action_queue.png" width="720" alt="Action queue"></p>
+<p align="center"><img src="action_queue.png" width="720" alt="Action queue"></p>
 
 - **259** accounts are ranked by VOI in the skip-trace queue (the top one is worth about Rs. 5,781).
 - **827** numbers are on the do-not-call list.
