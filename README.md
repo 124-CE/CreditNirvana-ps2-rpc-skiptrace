@@ -1,4 +1,3 @@
-# CreditNirvana-ps2-rpc-skiptrace
 Open IIT Finalist
 <div align="center">
 
